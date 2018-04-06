@@ -1,0 +1,35 @@
+* {
+        margin: 0;
+        padding: 0;
+        border: 0;
+        outline: 0;
+        font-size: 100%;
+        vertical-align: baseline;
+        background: transparent;
+    }
+
+html, body {
+  height: 100%;
+}
+
+
+.first {
+	text-align: center;
+	height: 100%;
+	background-color: blue;
+}
+
+.second {
+
+	height: 90%;
+	text-align: center;
+	margin: 20px 45px;
+	background-color: red;
+}
+
+.third {
+		height: 80%;
+		margin: 20px 45px;
+		text-align: center;
+		background-color: green;
+}
